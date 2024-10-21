@@ -14,7 +14,7 @@ public class findPerm{
         }  
     }
     public static void main(String[] args){
-        String str = "abc";
+        String str = "abc123";
         findPermutation(str, " ");
     }
 }
